@@ -98,7 +98,7 @@ public class MainActivity extends AppCompatActivity {
             RadioButton proteinaSelecionada = findViewById(proteinaSelecionadaId);
 
             if (proteinaSelecionada.toString().contains("linguica")) {
-                proteinaSelecionadaString = "Linguiça Calabresa";
+                proteinaSelecionadaString = "Linguiça";
             }
 
             if (proteinaSelecionada.toString().contains("salsicha")) {
